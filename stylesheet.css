@@ -9,24 +9,30 @@ color: white;
   padding: 10px 20px;
   border: none;
    font-family: "Segoe UI", sans-serif;
+    border-radius: 4px;
 }
 .button2 {  
    background-color: #1DA1F2;
   padding: 10px 20px;
   border: none;
    font-family: "Segoe UI", sans-serif;
+    border-radius: 4px;
 }
 .button3 {  
    background-color: #6441a5;
   padding: 10px 20px;
   border: none;
    font-family: "Segoe UI", sans-serif;
+    border-radius: 4px;
 }
 .button4 {  
    background-color: #FFA500;
   padding: 10px 20px;
   border: none;
    font-family: "Segoe UI", sans-serif;
+  border-radius: 4px;
 }
+
+
 
 
