@@ -1,4 +1,32 @@
-p {
-  color: red;
-  text-align: center;
+body {
+color: white;
+  background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+ font-family: "Segoe UI", sans-serif;
+  font-weight: heavy;
+}  
+.button1 {  
+   background-color: #FF0000;
+  padding: 10px 20px;
+  border: none;
+   font-family: "Segoe UI", sans-serif;
 }
+.button2 {  
+   background-color: #1DA1F2;
+  padding: 10px 20px;
+  border: none;
+   font-family: "Segoe UI", sans-serif;
+}
+.button3 {  
+   background-color: #6441a5;
+  padding: 10px 20px;
+  border: none;
+   font-family: "Segoe UI", sans-serif;
+}
+.button4 {  
+   background-color: #FFA500;
+  padding: 10px 20px;
+  border: none;
+   font-family: "Segoe UI", sans-serif;
+}
+
+
