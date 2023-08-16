@@ -3,6 +3,7 @@ color: white;
   background-image: url("https://wallpaperaccess.com/full/39632.jpg");
  font-family: "Segoe UI", sans-serif;
   font-weight: heavy;
+  overflow-x: hidden;
 }  
 .button1 {  
    background-color: #FF0000;
