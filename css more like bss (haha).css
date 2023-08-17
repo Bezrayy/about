@@ -45,3 +45,8 @@ div.c {
   line-height: 80%;
   position:relative; bottom:80px;
  }
+div.e {
+ margin-left: 60px;
+ margin-right: 60px;
+ position:relative; bottom:160px;
+}
